@@ -255,8 +255,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
+<<<<<<< HEAD
 **Abdalmoumen Khahla**
 - GitHub: [@abdkh](https://github.com/abdalmoumenkahla)
+=======
+**Abdul Khalid**
+- GitHub: [@abdkh](https://github.com/abdkh)
+>>>>>>> c8aaecbb8d3a0e9f5e58907f4b7eedd0e2a88691
 - Email: your.email@example.com
 
 ## 🙏 Acknowledgments
@@ -268,4 +273,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
+<<<<<<< HEAD
 
+=======
+**⭐ Star this repository if you found it helpful!**
+
+# PULS--Chat-App
+Real-time group chat app with React.js, express.js, Socket.IO, and MongoDB. Features instant messaging, user authentication, and group management.
+>>>>>>> c8aaecbb8d3a0e9f5e58907f4b7eedd0e2a88691
