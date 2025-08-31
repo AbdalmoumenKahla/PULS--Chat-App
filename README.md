@@ -249,21 +249,6 @@ Puls-ChatApp/
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
-
-<<<<<<< HEAD
-**Abdalmoumen Khahla**
-- GitHub: [@abdkh](https://github.com/abdalmoumenkahla)
-=======
-**Abdul Khalid**
-- GitHub: [@abdkh](https://github.com/abdkh)
->>>>>>> c8aaecbb8d3a0e9f5e58907f4b7eedd0e2a88691
-- Email: your.email@example.com
-
 ## 🙏 Acknowledgments
 
 - Socket.IO for real-time communication
