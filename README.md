@@ -255,8 +255,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Abdul Khalid**
-- GitHub: [@abdkh](https://github.com/abdkh)
+**Abdalmoumen Khahla**
+- GitHub: [@abdkh](https://github.com/abdalmoumenkahla)
 - Email: your.email@example.com
 
 ## 🙏 Acknowledgments
@@ -268,4 +268,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**⭐ Star this repository if you found it helpful!**
+
