@@ -36,17 +36,17 @@ const Sidebar = ({ setSelectedGroup }) => {
   const navigate = useNavigate();
 
   useEffect(() => {
+    //Check if login user is an admin 
+    
     checkAdminStatus();
     fetchGroups();
   }, []);
-  //Check if login user is an admin
+  
   const checkAdminStatus = () => {
-    const userInfo = JSON.parse(localStorage.getItem("userInfo") || "{}");
-    console.log("userInfo from localStorage:", userInfo);
-    console.log("isAdmin value:", userInfo?.isAdmin);
-    //!update admin status
-    setIsAdmin(userInfo?.isAdmin || false);
-  };
+      const userInfo = JSON.parse(localStorage.getItem("userInfo") || "{}");
+      const adminEmail = "admin@example.com"; // Change to your desired admin email
+      setIsAdmin(userInfo?.email === adminEmail);
+    };
 
   //fetch all groups
   const fetchGroups = async () => {
@@ -209,7 +209,7 @@ const Sidebar = ({ setSelectedGroup }) => {
             Groups
           </Text>
         </Flex>
-        {true && (
+        {isAdmin && (
           <Tooltip label="Create New Group" placement="right">
             <Button
               size="sm"
