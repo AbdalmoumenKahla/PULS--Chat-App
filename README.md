@@ -227,28 +227,6 @@ Puls-ChatApp/
    - Kill existing processes: `netstat -ano | findstr :5000`
    - Use different ports if needed
 
-## 🚀 Deployment
-
-### Backend Deployment (Railway/Render)
-1. Push code to GitHub
-2. Connect repository to Railway.app or Render.com
-3. Set environment variables
-4. Deploy
-
-### Frontend Deployment (Vercel/Netlify)
-1. Update API URLs to production backend
-2. Push code to GitHub
-3. Connect repository to Vercel.com or Netlify.com
-4. Deploy
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## 🙏 Acknowledgments
 
 - Socket.IO for real-time communication
@@ -257,12 +235,6 @@ Puls-ChatApp/
 - React community for amazing ecosystem
 
 ---
-
-<<<<<<< HEAD
-
-=======
-**⭐ Star this repository if you found it helpful!**
-
 # PULS--Chat-App
 Real-time group chat app with React.js, express.js, Socket.IO, and MongoDB. Features instant messaging, user authentication, and group management.
 
