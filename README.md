@@ -265,4 +265,4 @@ Puls-ChatApp/
 
 # PULS--Chat-App
 Real-time group chat app with React.js, express.js, Socket.IO, and MongoDB. Features instant messaging, user authentication, and group management.
->>>>>>> c8aaecbb8d3a0e9f5e58907f4b7eedd0e2a88691
+
